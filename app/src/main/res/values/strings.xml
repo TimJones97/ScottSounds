@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Scott Sounds</string>
+    <string name="action_settings">Settings</string>
+    <string name="insult1_1">That\'s a very compelling offer</string>
+    <string name="insult1_2">Do you know what a Chromebook is?</string>
+    <string name="insult2_1">Think of the shareholders</string>
+    <string name="insult1_3">F@#* that noise</string>
+    <string name="insult1_4">The system works</string>
+    <string name="insult2_2">This is fine</string>
+    <string name="photoDescription"> character photo</string>
+</resources>
